@@ -6,6 +6,7 @@ from database import save_memory, search_memory
 from rag import retrieve_from_rag
 
 
+
 load_dotenv()
 
 

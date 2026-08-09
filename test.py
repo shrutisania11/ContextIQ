@@ -22,4 +22,8 @@ for message_chunk, metadata in agent.stream(
 
     if message_chunk.content:
         print(message_chunk.content, end=" ", flush=True)
+
+
+
+
     
